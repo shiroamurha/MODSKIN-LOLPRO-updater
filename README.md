@@ -1,14 +1,10 @@
 # MODSKIN-LOLPRO-updater
-The mod is fkn 10y old and has'nt a self-updater.
+# The mod is fkn 10y old and has'nt a self-updater.
 
-<br/>
-To use it just run the exec wait some seconds and it will run the new modskin extractor version  
+<br/>To use it just run the exec, wait some seconds, and it will run the new modskin extractor version  
 
-<br/>
-Actually it's just run the file and it will automatically download the current version of the mod on the website http://leagueskin.net/p/download-mod-skin-2020-chn then will run it, and delete the zip file dowloaded.
+<br/>Actually it's just run the file and it will automatically download the current version of the mod on the website http://leagueskin.net/p/download-mod-skin-2020-chn then will run it, and delete the zip file dowloaded.
 
-<br/>
-The only issue in the code, is not actually inside it. If the file on the website of the mod is not yet updated (which is common on the first days of patch), the updater will download and install an old version of the mod.
+<br/>The only issue in the code, is not actually inside it. If the file on the website of the mod is not yet updated (which is common on the first days of patch), the updater will download and install an old version of the mod.
 
-<br/>
-Note: this program also works to install modskin on your pc if it is not installed yet.
+<br/>Note: this program also works to install modskin on your pc if it is not installed yet.
