@@ -1,5 +1,5 @@
 # MODSKIN-LOLPRO-updater
-<div font-size=15>The mod is fkn 10y old and has'nt a self-updater.<div/>
+<div font-size=25>The mod is fkn 10y old and has'nt a self-updater.<div/>
 
 <br/>
 To use it just run the exec wait some seconds and it will run the new modskin extractor version  
