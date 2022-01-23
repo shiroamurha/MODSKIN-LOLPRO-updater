@@ -45,6 +45,6 @@ def update():
 
 	os.startfile(path+'LOLPRO 12.2.exe')
 
-
-
+	
+	
 update()
