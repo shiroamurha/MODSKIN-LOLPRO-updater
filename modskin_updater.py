@@ -35,6 +35,7 @@ def update():
 
 	donwload = requests.get(f'http://s4.modskinlolvn.com/MODSKIN_{get_patch()}.zip', allow_redirects=True)
 
+
 	open(path+'file.zip', 'wb').write(donwload.content)
 
 	with zipfile.ZipFile(path+'file.zip',"r") as zip_ref:
@@ -43,8 +44,7 @@ def update():
 
 	os.remove(path+'file.zip')
 
-	os.startfile(path+'LOLPRO 12.2.exe')
+	os.startfile(f'{path}LOLPRO {get_patch()}.exe')
 
-	
-	
+
 update()
