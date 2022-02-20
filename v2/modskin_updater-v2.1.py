@@ -7,7 +7,7 @@ import zipfile
 
 
 
-def get_download_specs():
+def get_download_specs(): 
 
 	#faz requst do html do site
 	main_website = BeautifulSoup(
